@@ -1,0 +1,10 @@
+{
+    "token": "abcdefghijklmnopqrstuvwxyz",
+    "prefix": "-",
+    "yourid": "1234567890",
+    "defaultmsg": "-msg | KNIF#0001",
+    "type": "2",
+    "status": "dnd",
+    "cooldown": "900",
+    "devmsgcmd": "msg"
+}
