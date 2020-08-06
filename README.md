@@ -33,4 +33,5 @@ Command: error
 Sends a error message
 Command: warning
 Sends a success message
-```
+```[![Run on Repl.it](https://repl.it/badge/github/KNIF/DM-Discord-Bot)](https://repl.it/github/KNIF/DM-Discord-Bot)
+
